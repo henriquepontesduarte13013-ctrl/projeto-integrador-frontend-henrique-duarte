@@ -2,6 +2,10 @@
 
 Aplicação web desenvolvida para a disciplina de **Desenvolvimento Front-End Para Web**, com foco em manipulação dinâmica do DOM utilizando HTML5, CSS3 e JavaScript puro (Vanilla JS).
 
+## Acesse o projeto
+
+🌐 **[GAMEVERSE — Catálogo Interativo de Jogos](https://henriquepontesduarte13013-ctrl.github.io/projeto-integrador-frontend-henrique-duarte/)**
+
 ## Funcionalidades
 
 - **Catálogo com 30 jogos** em 8 categorias: Ação e Aventura, Battle Royale, Esportes e Corrida, Mundo Aberto e Sandbox, RPG, FPS e MOBA, Estratégia e Simulação, e Plataforma, Luta e Terror.
@@ -21,7 +25,7 @@ Aplicação web desenvolvida para a disciplina de **Desenvolvimento Front-End Pa
 
 ## Estrutura de Arquivos
 
-```
+```text
 catalogo-jogos-dom/
 ├── index.html          # Estrutura semântica e sprite SVG
 ├── css/
@@ -96,4 +100,3 @@ O vídeo de destaque não acompanha o repositório: adicione `assets/videos/dest
 Esta seção será preenchida conforme as orientações da disciplina, incluindo as avaliações realizadas pelos integrantes do grupo.
 
 **Avaliações pendentes:** aguardando realização e preenchimento.
-
