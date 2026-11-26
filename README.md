@@ -1,6 +1,9 @@
 # Catálogo Interativo de Jogos (`catalogo-jogos-dom`)
 
 Aplicação web desenvolvida para a disciplina de **Desenvolvimento Front-End Para Web**, com foco em manipulação dinâmica do DOM utilizando HTML5, CSS3 e JavaScript puro (Vanilla JS).
+## Acesse o projeto
+
+🌐 **[GAMEVERSE — Catálogo Interativo de Jogos](https://henriquepontesduarte13013-ctrl.github.io/projeto-integrador-frontend-henrique-duarte/)**
 
 ## Funcionalidades
 
