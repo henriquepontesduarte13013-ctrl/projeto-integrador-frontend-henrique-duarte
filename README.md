@@ -1,6 +1,13 @@
 # Catálogo Interativo de Jogos
 
 Aplicação web desenvolvida para a disciplina de **Desenvolvimento Front-End Para Web**, com foco em manipulação dinâmica do DOM utilizando HTML5, CSS3 e JavaScript puro (Vanilla JS).
+## Acesse o projeto
+
+🌐 **[GAMEVERSE — Catálogo Interativo de Jogos](https://henriquepontesduarte13013-ctrl.github.io/projeto-integrador-frontend-henrique-duarte/)**
+
+## Acesse o projeto
+
+🌐 **[GAMEVERSE — Catálogo Interativo de Jogos](https://henriquepontesduarte13013-ctrl.github.io/projeto-integrador-frontend-henrique-duarte/)**
 
 ## Funcionalidades
 
@@ -21,7 +28,7 @@ Aplicação web desenvolvida para a disciplina de **Desenvolvimento Front-End Pa
 
 ## Estrutura de Arquivos
 
-```
+```text
 catalogo-jogos-dom/
 ├── index.html          # Estrutura semântica e sprite SVG
 ├── css/
@@ -94,7 +101,6 @@ O vídeo de destaque não acompanha o repositório: adicione `assets/videos/dest
 ## Avaliação em Pares
 
 Esta seção será preenchida conforme as orientações da disciplina, incluindo as avaliações realizadas pelos integrantes do grupo.
-
 
 # Relatório de Avaliação por Pares das Atividades Práticas
 
@@ -298,3 +304,5 @@ Evidência de uso de IA: os commits que originaram os PRs #2 a #5 (`feat: estrut
 ## 4. Considerações finais
 
 O projeto apresenta desempenho consistente e sólido nas Aulas 1 a 11, com código legível, boa documentação e resultados excelentes na auditoria Lighthouse. As notas reduzidas concentram-se nas Aulas 12 a 15, em que não foram encontradas as branches e as evidências exigidas pelo checklist.
+=======
+**Avaliações pendentes:** aguardando realização e preenchimento.
